@@ -1,0 +1,20 @@
+The following are the links of dataset used for the research thesis:
+
+CSSEGIS COVID-19 Data:
+
+Global Confirmed Cases Data - https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
+Global Deaths Data - https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+
+Global Recovered Data - https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+
+Worldwide Countries Data - https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv
+
+Our World In Data - Covid 19 Dataset:
+
+https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+
+COVID-19 County Level Statistics - HPSC Ireland:
+
+http://opendata-geohive.hub.arcgis.com/datasets/d9be85b30d7748b5b7c09450b8aede63_0.csv?outSR={%22latestWkid%22:3857,%22wkid%22:102100}
+
